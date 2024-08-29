@@ -6,4 +6,6 @@ Whilst this repo is public for demonstration purposes, your repo should be priva
 
 For each new assignment you should create a new folder, put your homework in that folder, commit and then push.
 
-N.B. There is no actual homework inside this repo!
+N.B. 
+- Please dont make requests to collaborate on this repo or seek to push your homework to this repo. You need to make your own.
+- Also, there is no actual homework inside this repo! ;-)
