@@ -1,0 +1,9 @@
+# .gitignore
+
+# Ignore node_modules directory
+**/node_modules
+
+# This line is specific for macOS:
+**/.DS_Store
+
+# **/ matches any directory level, including subdirectories.
